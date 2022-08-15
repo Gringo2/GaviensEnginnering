@@ -1,0 +1,26 @@
+:root {
+
+    /**
+     * typography
+     */
+
+    --fs-1: 2.625rem;
+
+  }
+  .about{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+  }
+  .content-left{
+   
+    float: left;
+    padding-left: 2em;
+    padding-top: 2em;
+    width : 100%;
+  }
+  .content-right {
+    width: 100%;
+    border-radius: 30px;
+    z-index: -1;
+  }
