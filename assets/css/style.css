@@ -617,6 +617,7 @@ justify-content: center;
   border-radius: var(--radius-18);
   border: 1px solid var(--white);
   transition: var(--transition);
+  min-height: 300px;
 }
 
 .get-start-card:hover {
